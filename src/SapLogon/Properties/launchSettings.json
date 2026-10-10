@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "SapLogon (Package)": {
+      "commandName": "MsixPackage",
+      "doNotLaunchApp": true
+    },
+    "SapLogon (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

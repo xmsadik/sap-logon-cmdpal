@@ -1,0 +1,6 @@
+Portions of this project (Program.cs, SapLogonExtension.cs, SapLogonCommandsProvider.cs,
+and the project scaffolding) are derived from the Microsoft PowerToys Command Palette extension
+template, Copyright (c) Microsoft Corporation, licensed under the MIT License.
+
+SAP, SAP GUI and SAP Logon are trademarks or registered trademarks of SAP SE. This project is not
+affiliated with, endorsed by or sponsored by SAP SE or Microsoft.
